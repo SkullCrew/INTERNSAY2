@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+body {
+  background-image: url("https://images.pexels.com/photos/1095601/pexels-photo-1095601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size:  cover;
+  background-position: center;
+}
+
+#timer {
+  font-size: 48px;
+}
